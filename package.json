@@ -1,6 +1,6 @@
 {
   "name": "anti-phish-advanced-updated",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "The updated advanced version of the Anti-Phishing Implementation!",
   "main": "lib/index.js",
   "typings": "./typings/index.d.ts",
